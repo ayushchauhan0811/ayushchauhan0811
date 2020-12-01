@@ -17,7 +17,7 @@ I'm [Ayush Chauhan](https://www.linkedin.com/in/ayush-chauhan/), an **Data Enthu
 <br/>
 
 ### I Mostly Work With
-<code><img height="35" src="https://raw.githubusercontent.com/prestodb/prestodb.github.io/source/website/static/img/presto.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/prestodb/presto/master/presto-docs/src/main/resources/logo/web/main/white/FB_Presto_Logo_WhiteBG-01.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -31,7 +31,7 @@ I'm [Ayush Chauhan](https://www.linkedin.com/in/ayush-chauhan/), an **Data Enthu
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/308px-Apache_kafka.svg.png"></code>
 
 <code><img height="35" src="https://raw.githubusercontent.com/jupyterhub/jupyterhub/master/share/jupyterhub/static/images/jupyter.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/apache/druid/master/website/static/img/druid_nav.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/apache/druid/master/website/static/img/favicon.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/apache/hive/master/docs/images/hive-logo.jpg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/apache/spark/master/docs/img/spark-logo-hd.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/apache/flink/c538b01caa1949c3d7ddc02edf4eed4abbb4a5dd/docs/page/img/navbar-brand-logo.jpg"></code>
